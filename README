@@ -1,0 +1,7 @@
+Voice recorder testing
+
+This testing project consists of following files:
+ embeddedrecorder200906111142.jar (java applet)
+ test.php (test php script)
+ voicerecordertest.js (javascript code using YUI)
+ voicerecorderupload.php (php script for uploading a temp file) 
